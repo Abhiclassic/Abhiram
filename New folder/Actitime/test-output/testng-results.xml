@@ -10,14 +10,32 @@
     <line>
       <![CDATA[Successfully running]]>
     </line>
+    <line>
+      <![CDATA[Successfully running]]>
+    </line>
+    <line>
+      <![CDATA[Successfully running]]>
+    </line>
+    <line>
+      <![CDATA[Successfully running]]>
+    </line>
   </reporter-output>
-  <suite started-at="2020-08-06T17:56:14 IST" name="Suite" finished-at="2020-08-06T17:56:17 IST" duration-ms="2721">
+  <suite started-at="2020-08-06T21:12:05 IST" name="Default suite" finished-at="2020-08-06T21:12:05 IST" duration-ms="226">
     <groups>
     </groups>
-    <test started-at="2020-08-06T17:56:14 IST" name="Test" finished-at="2020-08-06T17:56:17 IST" duration-ms="2721">
+    <test started-at="2020-08-06T21:12:05 IST" name="Default test" finished-at="2020-08-06T21:12:05 IST" duration-ms="226">
       <class name="com.actitime.timetrack.Demo">
-        <test-method signature="runTest()[pri:0, instance:com.actitime.timetrack.Demo@77ab22be]" started-at="2020-08-06T17:56:16 IST" name="runTest" finished-at="2020-08-06T17:56:16 IST" duration-ms="615" status="PASS">
+        <test-method signature="runTest()[pri:0, instance:com.actitime.timetrack.Demo@75329a49]" started-at="2020-08-06T21:12:05 IST" name="runTest" finished-at="2020-08-06T21:12:05 IST" duration-ms="33" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[Successfully running]]>
+            </line>
+            <line>
+              <![CDATA[Successfully running]]>
+            </line>
+            <line>
+              <![CDATA[Successfully running]]>
+            </line>
             <line>
               <![CDATA[Successfully running]]>
             </line>
@@ -30,6 +48,6 @@
           </reporter-output>
         </test-method> <!-- runTest -->
       </class> <!-- com.actitime.timetrack.Demo -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
