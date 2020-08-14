@@ -20,12 +20,12 @@
       <![CDATA[Successfully running]]>
     </line>
   </reporter-output>
-  <suite started-at="2020-08-06T21:45:14 IST" name="Default suite" finished-at="2020-08-06T21:45:14 IST" duration-ms="165">
+  <suite started-at="2020-08-09T08:27:29 IST" name="Default suite" finished-at="2020-08-09T08:27:30 IST" duration-ms="165">
     <groups>
     </groups>
-    <test started-at="2020-08-06T21:45:14 IST" name="Default test" finished-at="2020-08-06T21:45:14 IST" duration-ms="165">
+    <test started-at="2020-08-09T08:27:29 IST" name="Default test" finished-at="2020-08-09T08:27:30 IST" duration-ms="165">
       <class name="com.actitime.timetrack.Demo">
-        <test-method signature="runTest()[pri:0, instance:com.actitime.timetrack.Demo@75329a49]" started-at="2020-08-06T21:45:14 IST" name="runTest" finished-at="2020-08-06T21:45:14 IST" duration-ms="31" status="PASS">
+        <test-method signature="runTest()[pri:0, instance:com.actitime.timetrack.Demo@d6e7bab]" started-at="2020-08-09T08:27:30 IST" name="runTest" finished-at="2020-08-09T08:27:30 IST" duration-ms="30" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Successfully running]]>
