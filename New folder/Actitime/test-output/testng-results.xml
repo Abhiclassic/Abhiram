@@ -5,45 +5,21 @@
       <![CDATA[Successfully running]]>
     </line>
     <line>
-      <![CDATA[Successfully running]]>
-    </line>
-    <line>
-      <![CDATA[Successfully running]]>
-    </line>
-    <line>
-      <![CDATA[Successfully running]]>
-    </line>
-    <line>
-      <![CDATA[Successfully running]]>
-    </line>
-    <line>
-      <![CDATA[Successfully running]]>
+      <![CDATA[Hi i am Abhiram are able to see me in jenkins???]]>
     </line>
   </reporter-output>
-  <suite started-at="2020-08-09T08:27:29 IST" name="Default suite" finished-at="2020-08-09T08:27:30 IST" duration-ms="165">
+  <suite started-at="2020-08-15T08:01:49 IST" name="Default suite" finished-at="2020-08-15T08:01:50 IST" duration-ms="182">
     <groups>
     </groups>
-    <test started-at="2020-08-09T08:27:29 IST" name="Default test" finished-at="2020-08-09T08:27:30 IST" duration-ms="165">
+    <test started-at="2020-08-15T08:01:49 IST" name="Default test" finished-at="2020-08-15T08:01:50 IST" duration-ms="182">
       <class name="com.actitime.timetrack.Demo">
-        <test-method signature="runTest()[pri:0, instance:com.actitime.timetrack.Demo@d6e7bab]" started-at="2020-08-09T08:27:30 IST" name="runTest" finished-at="2020-08-09T08:27:30 IST" duration-ms="30" status="PASS">
+        <test-method signature="runTest()[pri:0, instance:com.actitime.timetrack.Demo@4470f8a6]" started-at="2020-08-15T08:01:50 IST" name="runTest" finished-at="2020-08-15T08:01:50 IST" duration-ms="29" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Successfully running]]>
             </line>
             <line>
-              <![CDATA[Successfully running]]>
-            </line>
-            <line>
-              <![CDATA[Successfully running]]>
-            </line>
-            <line>
-              <![CDATA[Successfully running]]>
-            </line>
-            <line>
-              <![CDATA[Successfully running]]>
-            </line>
-            <line>
-              <![CDATA[Successfully running]]>
+              <![CDATA[Hi i am Abhiram are able to see me in jenkins???]]>
             </line>
           </reporter-output>
         </test-method> <!-- runTest -->
